@@ -1,0 +1,8 @@
+prefix=/home/ingeniarius/catkin_ws/install
+
+Name: cpr_obstacle_gazebo
+Description: Description of cpr_obstacle_gazebo
+Version: 0.2.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

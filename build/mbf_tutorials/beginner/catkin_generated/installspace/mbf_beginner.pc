@@ -1,0 +1,8 @@
+prefix=/home/ingeniarius/catkin_ws/install
+
+Name: mbf_beginner
+Description: Description of mbf_beginner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/ingeniarius/catkin_ws/devel
+
+Name: mbf_advanced
+Description: Description of mbf_advanced
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

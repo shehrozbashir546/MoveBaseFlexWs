@@ -1,0 +1,2 @@
+cpr_gazebo/cpr_inspection_gazebo:cpr_gazebo/cpr_race_modules:eband_local_planner:mbf_tutorials/advanced:teb_local_planner:tutorial
+-DCATKIN_DEVEL_PREFIX=/home/ingeniarius/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ingeniarius/catkin_ws/install -G Unix Makefiles
